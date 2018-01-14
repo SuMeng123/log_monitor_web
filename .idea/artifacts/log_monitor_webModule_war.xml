@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="log_monitor_webModule:war">
+    <output-path>E:/ideParentDirectory/log_monitor_web/log_monitor_webModule/target</output-path>
+    <root id="archive" name="log_monitor_web.war">
+      <element id="artifact" artifact-name="log_monitor_webModule:war exploded" />
+    </root>
+  </artifact>
+</component>
